@@ -1,5 +1,9 @@
 # preact-without-build
- Static boilerplate html with Preact, htm and component structure. Imitating a React app, but doesn't require build tools.
+ Static boilerplate html using Preact. Imitating React app component structure, but doesn't require build tools.
+ 
+ [Preact](https://github.com/preactjs/preact): Fast 3kB alternative to React with the same modern API.
+
+ [htm](https://github.com/developit/htm): JSX-like syntax in plain JavaScript - no transpiler necessary.
 
 ## Local Development
 
